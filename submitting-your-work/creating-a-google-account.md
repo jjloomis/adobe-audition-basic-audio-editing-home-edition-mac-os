@@ -2,7 +2,7 @@
 
 A Google Account gives you access to Google Drive, YouTube, Google Analytics, and Gmail. Use your Google account credentials \(username and password\) to sign into all of these services.
 
-You'll use your Google Account to [upload](/submitting-your-work/uploading-a-folder-to-google-drive.md) your project folder to Google Drive. Then you'll [create a shareable link](/submitting-your-work/uploading-a-folder-to-google-drive/creating-a-shareable-link-to-a-folder-on-google-drive.md) to that folder and send it to your instructor. \(**Note**: A project folder is too large to send as a compressed email attachment.\) 
+You'll use your Google Account to [upload](uploading-a-folder-to-google-drive.md) your project folder to Google Drive. Then you'll [create a shareable link](creating-a-shareable-link-to-a-folder-on-google-drive.md) to that folder and send it to your instructor. \(**Note**: A project folder is too large to send as a compressed email attachment.\)
 
 1. Go to [google.com](https://www.google.com/).
 2. Click the **Sign In** button.
@@ -13,5 +13,5 @@ You'll use your Google Account to [upload](/submitting-your-work/uploading-a-fol
 7. You are now logged in to your Google Account. In the upper-right corner of the browser, click the **drop-down** arrow and click **Account** to access your account settings. 
 8. Use your Google Account credentials \(username and password\) to sign into Google Drive, Gmail, Google Analytics, and YouTube.
 
-![](/assets/google-main.png)
+![](../.gitbook/assets/google-main.png)
 
