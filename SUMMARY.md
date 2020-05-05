@@ -25,6 +25,8 @@
 * [Zooming In and Out](listening-and-logging/zooming-in-out.md)
 * [Adding Range Markers to a WAV File](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Writing a Script](listening-and-logging/writing-a-script.md)
+* [Recording Narration with Zoom H2N](listening-and-logging/recording-narration-with-zoom-h2n.md)
+* [Adding Narration to Your Project](listening-and-logging/adding-narration.md)
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting Audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 
@@ -42,8 +44,6 @@
 * [Working with Additional WAV Files](editing/working-with-additional-audio-files.md)
 * [Working with Other Audio Formats](editing/working-with-other-audio-formats.md)
 * [Moving Multiple Sound Bites](editing/moving-multiple-sound-bites.md)
-* [Recording Narration with Zoom H2N](editing/recording-narration-with-zoom-h2n.md)
-* [Adding Narration to Your Project](editing/adding-narration.md)
 * [Applying Fades to Sound Bites](editing/applying-fades-to-sound-bites.md)
 * [Using Track Controls](editing/using-track-controls.md)
 * [Automating Track Volume with Keyframes](editing/automating-track-volume.md)
